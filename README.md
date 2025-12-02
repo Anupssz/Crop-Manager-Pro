@@ -35,7 +35,7 @@ Ensure you have Python installed on your system. You will need the following dep
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/crop-manager-pro.git
+    git clone https://github.com/Anupssz/crop-manager-pro.git
     cd crop-manager-pro
     ```
 
