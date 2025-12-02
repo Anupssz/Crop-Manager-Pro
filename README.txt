@@ -1,0 +1,1 @@
+pip install customtkinter tensorflow tensorflow-hub pillow numpy

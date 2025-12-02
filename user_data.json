@@ -1,0 +1,31 @@
+{
+    "users": {
+        "admin": {
+            "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+            "history": [
+                {
+                    "date": "2025-12-02 20:06",
+                    "file": "crab-apple-fruit-tree-rust-d0c0b053-01cd80cdad534ca18eb4c9e0a9a0b247.jpg",
+                    "result": "\u26a0\ufe0f Tomato   Early blight",
+                    "status": "Infected"
+                },
+                {
+                    "date": "2025-12-02 20:06",
+                    "file": "crab-apple-fruit-tree-rust-d0c0b053-01cd80cdad534ca18eb4c9e0a9a0b247.jpg",
+                    "result": "\u26a0\ufe0f Tomato   Early blight",
+                    "status": "Infected"
+                },
+                {
+                    "date": "2025-12-02 20:06",
+                    "file": "istockphoto-483451251-612x612.jpg",
+                    "result": "\u26a0\ufe0f Strawberry   Leaf scorch",
+                    "status": "Infected"
+                },
+                {
+                    "image": "C:/Users/GHOST/Downloads/Crop Manager/istockphoto-483451251-612x612.jpg",
+                    "result": "Strawberry___Leaf_scorch"
+                }
+            ]
+        }
+    }
+}
